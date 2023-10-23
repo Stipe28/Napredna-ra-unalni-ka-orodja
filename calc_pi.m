@@ -14,6 +14,7 @@ scatter(x,y,'b')
 hold on
 scatter(x,k,'r')
 grid on
-xlabel('x','FontSize',20)
-ylabel('y','FontSize',20)
+xlabel('X os','FontSize',20)
+ylabel('Y os','FontSize',20)
+title('graf približka pi')
 
